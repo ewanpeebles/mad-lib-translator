@@ -4,5 +4,7 @@ This is an early production so it may have bugs, but here it goes!
 ---
 > **IMPORTANT**
 > - This was made for Windows with a 64-bit operator. Using this on any other OS may cause problems.
-> - This product is in an early stage of developement and may have bugs.
-> - This code may be used freely by anyone who so desires.
+> - This is in an early stage of developement and may have bugs.
+> - This may be used freely by anyone who so desires.
+> - This may ask for sensitive information like your account nickname and the path of the desired file, but does not communicate with any other services or apps and does not use internet or data.
+> - Anything that you put into this program must be one word long, otherwise it will take the second word as the next input.
