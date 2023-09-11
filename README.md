@@ -1,4 +1,4 @@
-# mad-lib-translater
+# mad-lib-translator
 An app designed to read specially formatted Mad-Libs.
 This is an early production so it may have bugs, but here it goes!
 ---
