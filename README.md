@@ -1,6 +1,8 @@
 # mad-lib-translator
 An app designed to read specially formatted Mad-Libs.
 This is an early production so it may have bugs, but here it goes!
+This project is now deprecated due to generally poor code-writing. Also it's useless because you could just write the mad lib yourself
+
 ---
 > **IMPORTANT**
 > - This was made for Windows with a 64-bit operator. Using this on any other OS may cause problems.
